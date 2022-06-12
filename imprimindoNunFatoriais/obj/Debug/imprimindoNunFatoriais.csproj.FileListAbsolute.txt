@@ -1,0 +1,8 @@
+D:\AulasCSharp\aprendendoCSharp\imprimindoNunFatoriais\bin\Debug\imprimindoNunFatoriais.exe.config
+D:\AulasCSharp\aprendendoCSharp\imprimindoNunFatoriais\bin\Debug\imprimindoNunFatoriais.exe
+D:\AulasCSharp\aprendendoCSharp\imprimindoNunFatoriais\bin\Debug\imprimindoNunFatoriais.pdb
+D:\AulasCSharp\aprendendoCSharp\imprimindoNunFatoriais\obj\Debug\imprimindoNunFatoriais.csproj.AssemblyReference.cache
+D:\AulasCSharp\aprendendoCSharp\imprimindoNunFatoriais\obj\Debug\imprimindoNunFatoriais.csproj.SuggestedBindingRedirects.cache
+D:\AulasCSharp\aprendendoCSharp\imprimindoNunFatoriais\obj\Debug\imprimindoNunFatoriais.csproj.CoreCompileInputs.cache
+D:\AulasCSharp\aprendendoCSharp\imprimindoNunFatoriais\obj\Debug\imprimindoNunFatoriais.exe
+D:\AulasCSharp\aprendendoCSharp\imprimindoNunFatoriais\obj\Debug\imprimindoNunFatoriais.pdb
