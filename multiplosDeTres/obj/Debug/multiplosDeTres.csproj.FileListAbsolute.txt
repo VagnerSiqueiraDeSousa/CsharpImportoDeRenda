@@ -1,0 +1,8 @@
+D:\AulasCSharp\aprendendoCSharp\multiplosDeTres\bin\Debug\multiplosDeTres.exe.config
+D:\AulasCSharp\aprendendoCSharp\multiplosDeTres\bin\Debug\multiplosDeTres.exe
+D:\AulasCSharp\aprendendoCSharp\multiplosDeTres\bin\Debug\multiplosDeTres.pdb
+D:\AulasCSharp\aprendendoCSharp\multiplosDeTres\obj\Debug\multiplosDeTres.csproj.AssemblyReference.cache
+D:\AulasCSharp\aprendendoCSharp\multiplosDeTres\obj\Debug\multiplosDeTres.csproj.SuggestedBindingRedirects.cache
+D:\AulasCSharp\aprendendoCSharp\multiplosDeTres\obj\Debug\multiplosDeTres.csproj.CoreCompileInputs.cache
+D:\AulasCSharp\aprendendoCSharp\multiplosDeTres\obj\Debug\multiplosDeTres.exe
+D:\AulasCSharp\aprendendoCSharp\multiplosDeTres\obj\Debug\multiplosDeTres.pdb
