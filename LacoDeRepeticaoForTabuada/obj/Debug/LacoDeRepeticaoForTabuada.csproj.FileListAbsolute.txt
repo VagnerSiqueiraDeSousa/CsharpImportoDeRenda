@@ -1,0 +1,8 @@
+D:\AulasCSharp\aprendendoCSharp\LacoDeRepeticaoForTabuada\bin\Debug\LacoDeRepeticaoForTabuada.exe.config
+D:\AulasCSharp\aprendendoCSharp\LacoDeRepeticaoForTabuada\bin\Debug\LacoDeRepeticaoForTabuada.exe
+D:\AulasCSharp\aprendendoCSharp\LacoDeRepeticaoForTabuada\bin\Debug\LacoDeRepeticaoForTabuada.pdb
+D:\AulasCSharp\aprendendoCSharp\LacoDeRepeticaoForTabuada\obj\Debug\LacoDeRepeticaoForTabuada.csproj.AssemblyReference.cache
+D:\AulasCSharp\aprendendoCSharp\LacoDeRepeticaoForTabuada\obj\Debug\LacoDeRepeticaoForTabuada.csproj.SuggestedBindingRedirects.cache
+D:\AulasCSharp\aprendendoCSharp\LacoDeRepeticaoForTabuada\obj\Debug\LacoDeRepeticaoForTabuada.csproj.CoreCompileInputs.cache
+D:\AulasCSharp\aprendendoCSharp\LacoDeRepeticaoForTabuada\obj\Debug\LacoDeRepeticaoForTabuada.exe
+D:\AulasCSharp\aprendendoCSharp\LacoDeRepeticaoForTabuada\obj\Debug\LacoDeRepeticaoForTabuada.pdb
